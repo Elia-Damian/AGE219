@@ -89,6 +89,7 @@ This capstone project mines 10 years of experimental temperature-stress datasets
 - **Total observations:** 120 clean records after merging and cleaning
 - **Crops covered:** Wheat, Barley, Oat, Canola, Chickpea
 - **Temperature range:** −16°C (severe frost) to +40°C (extreme heat)
+- kaggle.com
 
 ---
 
